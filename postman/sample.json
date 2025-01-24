@@ -1,0 +1,16 @@
+{
+    "name": "Terms and Conditions",
+    "translations": [
+      {
+        "language": "en",
+        "legalDocumentSummary": "This is the summary in English",
+        "legalDocumentContent": "This is the content in English"
+      },
+      {
+        "language": "fr",
+        "legalDocumentSummary": "Ceci est le résumé en français",
+        "legalDocumentContent": "Ceci est le contenu en français"
+      }
+    ]
+  }
+  
